@@ -1,3 +1,3 @@
 # opensourcecode
 
-- Add your codes here!
+- Contribute your code for HacktoberFest
